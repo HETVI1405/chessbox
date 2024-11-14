@@ -1,0 +1,34 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.chessbox1
+{
+    height: auto;
+    width: 800px;
+flex-wrap: wrap;
+margin: auto;
+display: flex;
+
+}
+.box1
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+.box2
+{
+    height: 100px;
+    width: 100px;
+    background-color:white;
+}
+.chessbox
+{
+    height: auto;
+    width: 64%;
+    border: 2px solid black;
+    margin: auto;
+}
